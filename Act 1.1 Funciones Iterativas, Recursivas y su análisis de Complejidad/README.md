@@ -2,7 +2,7 @@
 
 ## Daniel Rodriguez Figueroa   A01612889
 
-### suma Iterativa
+## suma Iterativa
 
 El algoritmo **(Suma Iterativa)** recorre n pasos ya que usa un ciclo que va desde i = 1 hasta n.
 Debido a esto su complejidad es **O(n*n)** para el peor de los casos.
