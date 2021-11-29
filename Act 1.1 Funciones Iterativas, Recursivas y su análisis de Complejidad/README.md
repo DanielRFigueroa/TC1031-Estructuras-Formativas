@@ -1,11 +1,18 @@
-#suma Iterativa
+# Analisis de Complejidad 🖥️ ✅
 
-**Análisis de complejidad temporal**
+## Daniel Rodriguez Figueroa   A01612889
 
-el algoritmo recorre n pasos ya que usa un ciclo que va i = 1 hatsa n, por los que su complejidad es O(n*n) para el peor de los casos.
+### suma Iterativa
 
-#suma Recursiva
+El algoritmo **(Suma Iterativa)** recorre n pasos ya que usa un ciclo que va desde i = 1 hasta n.
+Debido a esto su complejidad es **O(n*n)** para el peor de los casos.
 
-**Análisis de complejidad temporal**
+## suma Recursiva
 
-El algoritmo se manda a llamar así mismo n veces, por los que su complejidad es O(n*n*n) para el peor de los casos.
+El algoritmo **(Suma Recursiva)** se manda a llamar así mismo n veces.
+Debido a esto su complejidad es **O(n*n*n)** para el peor de los casos.
+
+## suma Directa
+
+El algoritmo **(Suma Directa)** solo necesita ejecutar una operación algebraica para obtener el resultado esperado.
+Debido a esto su complejidad es constante **O(1)**.

@@ -1,3 +1,11 @@
+/*
+Author: Daniel Rodriguez Figueroa
+
+A01612889
+
+correcion act 1.2
+*/
+
 #ifndef sorts_h
 #define sorts_h
 

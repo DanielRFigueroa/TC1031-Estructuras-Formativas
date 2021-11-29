@@ -1,3 +1,11 @@
+/*
+Author: Daniel Rodriguez Figueroa
+
+A01612889
+
+correcion act 1.1
+*/
+
 #include <iostream>
 using namespace std;
 
